@@ -2,6 +2,8 @@
 
 [Enervator](https://github.com/glowkeeper/Enervator), a cryptocurrency for incentivising energy efficiency, by [Steve Huckle](https://glowkeeper.github.io/), PhD Researcher at the [University of Sussex](https://www.sussex.ac.uk/).
 
+4th October, 2019, at the [The Fusebox](https://thefuseboxbrighton.com/), Brighton, UK.
+
 ## Bitcoin's High Energy Demand
 
 Buried deep within my 2016 paper [Socialism and the Blockchain](http://dx.doi.org/10.3390/fi8040049), were some calculations of the 2014 total energy consumption of mining on the [Bitcoin](https://bitcoin.org/en/) network. I estimated that as 3.38 terawatt-hours (TWh); to put that in context, the 2.72 million people of Jamaica used 3.03 TWh of electricity that same year.
