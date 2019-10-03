@@ -91,13 +91,11 @@ _Image Source: [Clipart Library](http://clipart-library.com/clipart/1804638.htm)
 
 # Links
 
-1. [Introduction to this talk](https://github.com/glowkeeper/innovationForum) - https://github.com/glowkeeper/innovationForum
-2. [This presentation](https://github.com/glowkeeper/innovationForum/presentation) - https://github.com/glowkeeper/innovationForum/presentation
-3. [Bitcoin’s high energy consumption is a concern – but it may be a price worth paying](https://theconversation.com/bitcoins-high-energy-consumption-is-a-concern-but-it-may-be-a-price-worth-paying-106282) - https://tinyurl.com/y4ep8ygy
-4. [Socialism and the Blockchain](http://dx.doi.org/10.3390/fi8040049) - http://dx.doi.org/10.3390/fi8040049
-5. [Enervator](https://github.com/glowkeeper/Enervator) - https://github.com/glowkeeper/Enervator
-6. [ReportAid](https://github.com/glowkeeper/ReportAid) - https://github.com/glowkeeper/ReportAid
-7. [Provenator](https://github.com/glowkeeper/Provenator) - https://github.com/glowkeeper/Provenator
+1. [Introduction to this talk](https://github.com/glowkeeper/innovationForum): https://github.com/glowkeeper/innovationForum
+2. [This presentation](https://tinyurl.com/y5f59m85): https://tinyurl.com/y5f59m85
+3. [Bitcoin’s high energy consumption is a concern – but it may be a price worth paying](https://tinyurl.com/y4ep8ygy): https://tinyurl.com/y4ep8ygy
+4. [Socialism and the Blockchain](http://dx.doi.org/10.3390/fi8040049): http://dx.doi.org/10.3390/fi8040049
+5. [Enervator](https://github.com/glowkeeper/Enervator): https://github.com/glowkeeper/Enervator
 
 - - -
 
