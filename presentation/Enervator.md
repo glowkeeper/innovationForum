@@ -85,7 +85,7 @@ _Image Source: [Clipart Library](http://clipart-library.com/clipart/1804638.htm)
 > 2. I argued it was a price worth paying because blockchains challenge the hierarchies of Capitalism
 > 3. [Enervator](https://github.com/glowkeeper/Enervator) incentivises energy efficiency
 > 4. There are (significant) barriers to uptake
-> 5. ...but they are not insurmountable!
+> 5. ...but are they insurmountable?
 
 - - -
 
